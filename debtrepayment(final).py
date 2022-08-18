@@ -108,5 +108,6 @@ input("Thank you for using my program. Press ENTER to exit.")
 # Code to ask user if they would like to set a monthly payment & see projected time for paying off debt. 
 # [NOTE]: for some reason I could not get this code to work properly. Not sure why. It kept calling the SetMonthlyPayment() function at the end of the program even if that option wasn't chosen. 
 
+# The above statement I believe refers to some extra functionality I attempted to add into the program that I could not get to work. I eventually removed it and submitted this version of the code instead, but the comment was left behind. 
 
     
